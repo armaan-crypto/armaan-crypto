@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armaan-crypto
-- 👀 I’m interested in coding in Swift and using UIKit.
-- 🌱 I’m currently learning Swift and Xcode
-- 💞️ I’m looking to collaborate on iOS apps
+- 👀 I’m interested in coding in mobile app development, including advanced backend design
+- 🌱 I’m currently learning LLM development, React, Swift, and CoreML
+- For my published projects, check [this](https://github.com/armaan-crypto/Published-Projects) out
 - 📫 How to reach me: armaanahmed08@gmail.com
 
 <!---
